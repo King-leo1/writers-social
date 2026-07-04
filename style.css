@@ -164,3 +164,30 @@ button{
     padding:18px;
     margin-bottom:18px;
 }
+.container{
+    max-width:430px;
+    margin:60px auto;
+    padding:20px;
+    text-align:center;
+}
+
+.subtitle{
+    margin:20px 0;
+    color:#cbd5e1;
+}
+
+.buttons{
+    display:flex;
+    flex-direction:column;
+    gap:15px;
+}
+
+.gold-button{
+    display:block;
+    background:#FFD700;
+    color:#000;
+    padding:16px;
+    border-radius:14px;
+    font-weight:bold;
+    text-align:center;
+}
